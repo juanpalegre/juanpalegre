@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hola! Soy Juan Pablo 🙌
+Soy un desarrollador de software con experiencia en Android Studio, Kotlin y Java. Me apasiona el desarrollo de aplicaciones móviles y he creado varias aplicaciones en Android Studio utilizando estas tecnologías. Soy un apasionado del aprendizaje continuo y estoy siempre en busca de nuevos desafíos.
 
-<!--
-**juanpalegre/juanpalegre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Habilidades principales
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Kotlin
+ - Java
+ - Android Studio
+
+
+## Contacto
+
+- jpalegree@gmail.com
+- https://www.linkedin.com/in/juanalegreroman/
