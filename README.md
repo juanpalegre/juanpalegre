@@ -1,15 +1,17 @@
-## Hola! Soy Juan Pablo 🙌
-Soy un desarrollador de software con experiencia en Android Studio, Kotlin y Java. Me apasiona el desarrollo de aplicaciones móviles y he creado varias aplicaciones en Android Studio utilizando estas tecnologías. Soy un apasionado del aprendizaje continuo y estoy siempre en busca de nuevos desafíos.
+## Hi! I'm Juan Pablo 🙌
+I am a software developer and educator. Currently, I work as a .Net developer, but the majority of my experience is in Android application development. I don't really have preferences when it comes to technologies, as I love programming and finding solutions that adapt to different environments.
 
+### What technologies do I handle??
+Frontend -> Angular, Ionic, and Native Android (Java/Kotlin)
+Backend -> Nodejs, Spring, Firebase, Sails.js...
+Databases: SQL and NoSQL
+Architectures: MVC, MVVM
+Clean Architecture and Design Patterns (in progress)
+Azure Cloud
 
-## Habilidades principales
+### Where am I focusing my attention??
+Foundations of AI and blockchain technology
 
- - Kotlin
- - Java
- - Android Studio
-
-
-## Contacto
-
+### Contact info
 - jpalegree@gmail.com
 - https://www.linkedin.com/in/juanalegreroman/
