@@ -6,11 +6,11 @@ Frontend -> Angular, Ionic, and Native Android (Java/Kotlin)
 Backend -> Nodejs, Spring, Firebase, Sails.js...
 Databases: SQL and NoSQL
 Architectures: MVC, MVVM
-Clean Architecture and Design Patterns (in progress)
-Azure Cloud
+Clean Architecture and Design Patterns
+Azure Cloud - Microsoft Certified
 
 ### Where am I focusing my attention??
-Foundations of AI and blockchain technology
+Artificial Intelligence & Cloud Computing
 
 ### Contact info
 - jpalegree@gmail.com
