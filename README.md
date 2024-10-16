@@ -1,20 +1,19 @@
-## Hi! I'm Juan Pablo 
-I am a software developer and educator. Currently, I work as a .Net developer, but the majority of my experience is in Android application development. I don't really have preferences when it comes to technologies, as I love programming and finding solutions that adapt to different environments.
+## Hi! I'm Juan Pablo
+I'm a full-stack developer and educator with a passion for building software that adapts to different environments. I love tackling challenges with diverse technologies, especially those related to AI and educational applications.
 
-### What technologies do I handle?
+### Technologies I work with
 
 * **Frontend:** Angular, Ionic, Native Android (Java/Kotlin)
-* **Backend:** Nodejs, Spring, Firebase, Sails.js...
-* **Databases:** SQL and NoSQL
-* **Architectures:** MVC, MVVM
-* **Clean Architecture and Design Patterns**
-* **Azure Cloud - Microsoft Certified**
+* **Backend:** Node.js, Spring, C#, .NET
+* **Databases:** SQL, NoSQL
+* **Architectures:** MVC, MVVM, Clean Architecture, Design Patterns
+* **Cloud:** Azure (Microsoft Certified)
 
-### Where am I focusing my attention?
+### Focus areas
 
-Artificial Intelligence & Cloud Computing
+I'm currently focused on Artificial Intelligence and Cloud Computing, with a special interest in creating educational solutions.
 
-### Contact info
+### Contact
+
 - jpalegree@gmail.com
-- https://www.linkedin.com/in/juanalegreroman/
-
+- [LinkedIn](https://www.linkedin.com/in/juanalegreroman/)
